@@ -3,7 +3,6 @@
 	<FileVersion major="1" minor="6" />
 	<Project>
 		<Option title="tp2.9" />
-		<Option execution_dir="C:/Users/juanma/Desktop/programacion laboratorio  librerias codeblock/estructuras/tp Stmoviimientos/tp2.9/" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -32,17 +31,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="C:/Users/juanma/Desktop/programacion laboratorio  librerias codeblock/estructuras/tp Stmoviimientos/tp2.9/main.c">
+		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="C:/Users/juanma/Desktop/programacion laboratorio  librerias codeblock/estructuras/tp Stmoviimientos/tp2.9/mocksMovimientos.c">
+		<Unit filename="mocksMovimientos.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="C:/Users/juanma/Desktop/programacion laboratorio  librerias codeblock/estructuras/tp Stmoviimientos/tp2.9/mocksMovimientos.h" />
-		<Unit filename="C:/Users/juanma/Desktop/programacion laboratorio  librerias codeblock/estructuras/tp Stmoviimientos/tp2.9/movimientosL.c">
+		<Unit filename="mocksMovimientos.h" />
+		<Unit filename="movimientosL.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="C:/Users/juanma/Desktop/programacion laboratorio  librerias codeblock/estructuras/tp Stmoviimientos/tp2.9/movimientosL.h" />
+		<Unit filename="movimientosL.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
